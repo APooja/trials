@@ -1,2 +1,2 @@
-# trials
-some trial stuff
+# Python Trials
+Some Basic Hands-on on Python applications.
